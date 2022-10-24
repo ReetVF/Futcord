@@ -4,7 +4,7 @@ setup(
     name='futcordd',
     version='0.0.1',
     packages=['futcord'],
-    url='https://github.com/mccoderpy/color-pprint',
+    url="https://github.com/ReetVF/Futcord",
     license='MIT',
     author='ReetVF',
     author_email='wollenils@gmail.com',
